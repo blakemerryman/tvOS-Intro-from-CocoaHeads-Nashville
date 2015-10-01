@@ -1,0 +1,61 @@
+<document>
+   <stackTemplate>
+      <banner>
+         <title>Fred and George</title>
+      </banner>
+      <collectionList>
+         <shelf>
+            <section>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_1.jpg" width="200" height="200" />
+                  <title>1</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_2.jpg" width="200" height="200" />
+                  <title>2</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_3.jpg" width="200" height="200" />
+                  <title>3</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_4.jpg" width="200" height="200" />
+                  <title>4</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_5.jpg" width="200" height="200" />
+                  <title>5</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_6.jpg" width="200" height="200" />
+                  <title>6</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_7.jpg" width="200" height="200" />
+                  <title>7</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_8.jpg" width="200" height="200" />
+                  <title>8</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_9.jpg" width="200" height="200" />
+                  <title>9</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_10.jpg" width="200" height="200" />
+                  <title>10</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_11.jpg" width="200" height="200" />
+                  <title>11</title>
+               </lockup>
+               <lockup>
+                  <img src="http://localhost:9001/resources/images/IMG_0.jpg" width="200" height="200" />
+                  <title>0</title>
+               </lockup>
+            </section>
+         </shelf>
+      </collectionList>
+   </stackTemplate>
+</document>
